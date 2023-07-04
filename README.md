@@ -1,4 +1,4 @@
-# JS Plugin For Web
+# JS Plugin
 This is a JS plugin for web development 
 
 1. https://github.com/yesiamrocks/cssanimation.io
@@ -53,6 +53,7 @@ This is a JS plugin for web development
 
 
 # Jquery - JS Library
+This is a JS library for dynamic web 
 
 1. https://api.jquery.com/
 2. https://jqueryui.com/development/
