@@ -50,6 +50,7 @@ This is a JS plugin for web development
 47. https://www.theatrejs.com/
 48. https://anijs.github.io/
 49. https://sweetalert2.github.io/
+50. https://letteringjs.com/
 
 
 # Jquery - JS Library
