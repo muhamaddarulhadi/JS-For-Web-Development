@@ -52,6 +52,8 @@ This is a JS plugin for web development
 49. https://sweetalert2.github.io/
 50. https://letteringjs.com/
 51. https://github.com/DubFriend/jquery.repeater
+52. https://github.com/alirezakefayati/writer.js
+53. https://github.com/fvilers/tiny-editor
 
 
 # Jquery - JS Library
