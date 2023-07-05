@@ -1,5 +1,6 @@
-# JS Plugin
-This is a JS plugin for web development 
+# JS Plugin & Library for web development 
+
+### Plugins
 
 1. https://github.com/yesiamrocks/cssanimation.io
 2. https://github.com/IanLunn/Hover/
@@ -54,14 +55,77 @@ This is a JS plugin for web development
 51. https://github.com/DubFriend/jquery.repeater
 52. https://github.com/alirezakefayati/writer.js
 53. https://github.com/fvilers/tiny-editor
+54. https://github.com/fabricjs/fabric.js
+55. https://pixijs.com
+56. http://raphaeljs.com
+57. https://threejs.org
+58. https://sproutcore.com : https://github.com/sproutcore/sproutcore
 
+### Chart
+1. D3js - https://d3js.org
+2. Chart.js - https://www.chartjs.org
+3. Recharts - https://recharts.org/en-US/
+4. Plotly - https://plotly.com/javascript/
+5. Bilboard.js - https://naver.github.io/billboard.js/
+6. Dygraphs - https://dygraphs.com
+7. vis.js - https://visjs.org
+8. Google chart - https://developers.google.com/chart
+9. Highcharts - https://www.highcharts.com
+10. Apexcharts.js - https://apexcharts.com
 
-# Jquery - JS Library
-This is a JS library for dynamic web 
+### Library
 
+#### Jquery
 1. https://api.jquery.com/
 2. https://jqueryui.com/development/
 
+#### Underscore
+1. https://github.com/jashkenas/underscore
+
+#### Lodash
+1. https://lodash.com
+
+#### Backbonejs
+1. https://backbonejs.org
+
+#### Prototype
+1. http://prototypejs.org
+2. Extensions to the browser scripting environment and provides elegant APIs around the clumsy interfaces of Ajax and the Document Object Model.
+
+### TypeScript
+- https://www.typescriptlang.org
+- TypeScript is a syntactic superset of JavaScript which adds static typing.
+- This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add types.
+- JavaScript is a loosely typed language. It can be difficult to understand what types of data are being passed around in JavaScript.
+- In JavaScript, function parameters and variables don't have any information! So developers need to look at documentation, or guess based on the implementation.
+- TypeScript allows specifying the types of data being passed around within the code, and has the ability to report errors when the types don't match.
+- For example, TypeScript will report an error when passing a string into a function that expects a number. JavaScript will not.
+
+
+# JS Framework
+
+### Client Environment
+
+1. Vue.js - https://vuejs.org
+2. Angular - https://angular.io
+3. React - https://react.dev
+4. Ember - https://emberjs.com
+
+### Server Environment
+
+1. Node.js - https://nodejs.org/en
+2. Expressjs - https://expressjs.com : Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+3. Koa - https://koajs.com : Web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs
+4. Next.js - https://nextjs.org : End-to-end higher-level Web Framework on top of React and Node.js. Next.js offers both Server-Rendered and Static Web sites for Web, Desktop, and Mobile devices. Mainly used for React
+5. Nuxt - https://nuxt.com : JavaScript library that based on Vue.js, Node.js, Vite and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js
+6. Fastify - https://fastify.dev
+7. LoopBack - https://loopback.io : A highly extensible Node.js and TypeScript framework
+8. Hapi - https://hapi.dev : earliest Node.js framework
+9. Restify - http://restify.com : The future of Node.js REST development
+
+### Both Environment
+
+1. Meteor - https://www.meteor.com
 
 
 
