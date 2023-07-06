@@ -60,6 +60,7 @@
 56. http://raphaeljs.com
 57. https://threejs.org
 58. https://sproutcore.com : https://github.com/sproutcore/sproutcore
+59. https://select2.org/
 
 ### Chart
 1. D3js - https://d3js.org
