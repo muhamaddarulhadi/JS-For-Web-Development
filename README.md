@@ -61,6 +61,41 @@
 57. https://threejs.org
 58. https://sproutcore.com : https://github.com/sproutcore/sproutcore
 59. https://select2.org/
+60. https://datatables.net/
+61. https://github.com/HubSpot/odometer
+62. https://github.com/bevacqua/dragula
+63. https://jeremyfagis.github.io/dropify/
+64. https://fullcalendar.io/
+65. https://hpneo.dev/gmaps/
+66. https://huebee.buzz/
+67. https://idletimer.dev/
+68. http://ionden.com/a/plugins/ion.rangeSlider/
+69. http://www.jquery-steps.com/
+70. https://jvectormap.com/
+71. https://leafletjs.com/
+72. https://lokeshdhakar.com/projects/lightbox2/
+73. https://wakirin.github.io/Lightpick/
+74. https://easepick.com/
+75. https://dbushell.github.io/Nestable/
+76. https://parsleyjs.org/
+77. https://www.jqueryscript.net/tags.php?/Rating/
+78. https://nashio.github.io/star-rating-svg/demo/
+79. https://github.com/DubFriend/jquery.repeater
+80. https://www.jqueryscript.net/form/Form-Fields-Repeater.html
+81. https://github.com/nadangergeo/RWD-Table-Patterns
+82. https://summernote.org/
+83. https://timepicker.co/
+84. https://mindmup.github.io/editable-table/
+85. https://www.jqueryscript.net/table/editable-data-conversion-validation.html
+86. https://atomiks.github.io/tippyjs/
+87. https://www.meettippy.com/
+88. https://www.jstree.com/
+89. https://vitalets.github.io/x-editable/
+90. https://github.com/CodeSeven/toastr
+91. https://www.virtuosoft.eu/code/bootstrap-touchspin/
+92. https://github.com/orangehill/bootstrap-session-timeout
+93. https://clipboardjs.com/
+94. https://www.daterangepicker.com/
 
 ### Chart
 1. D3js - https://d3js.org
@@ -73,6 +108,8 @@
 8. Google chart - https://developers.google.com/chart
 9. Highcharts - https://www.highcharts.com
 10. Apexcharts.js - https://apexcharts.com
+11. Morris - https://morrisjs.github.io/morris.js/
+12. https://mimo84.github.io/bootstrap-maxlength/
 
 ### Library
 
