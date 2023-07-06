@@ -96,6 +96,7 @@
 92. https://github.com/orangehill/bootstrap-session-timeout
 93. https://clipboardjs.com/
 94. https://www.daterangepicker.com/
+95. https://mimo84.github.io/bootstrap-maxlength/
 
 ### Chart
 1. D3js - https://d3js.org
@@ -109,7 +110,7 @@
 9. Highcharts - https://www.highcharts.com
 10. Apexcharts.js - https://apexcharts.com
 11. Morris - https://morrisjs.github.io/morris.js/
-12. https://mimo84.github.io/bootstrap-maxlength/
+
 
 ### Library
 
