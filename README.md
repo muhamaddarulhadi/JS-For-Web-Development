@@ -98,6 +98,7 @@
 94. https://www.daterangepicker.com/
 95. https://mimo84.github.io/bootstrap-maxlength/
 96. https://github.com/rgalus/sticky-js
+97. https://codebyzach.github.io/pace/  -- loading bar
 
 ### Chart
 1. D3js - https://d3js.org
