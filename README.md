@@ -64,7 +64,7 @@
 60. https://datatables.net/
 61. https://github.com/HubSpot/odometer
 62. https://github.com/bevacqua/dragula
-63. https://jeremyfagis.github.io/dropify/
+63. https://github.com/JeremyFagis/dropify
 64. https://fullcalendar.io/
 65. https://hpneo.dev/gmaps/
 66. https://huebee.buzz/
