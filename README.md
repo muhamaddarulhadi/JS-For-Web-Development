@@ -186,6 +186,17 @@
 13. [Javascript 6](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
 
 
+# React with .Netcore Web Api
+
+1. https://www.youtube.com/watch?v=aBPDTnPg4ks
+2. https://www.youtube.com/watch?v=NemyDIUcC64&list=PLjC4UKOOcfDSA06HsjJK4ZBr1tnPaOOpq
+3. https://www.youtube.com/watch?v=4RKuyp_bOhY
+4. https://www.youtube.com/watch?v=ON-Z1iD6Y-c
+5. https://www.youtube.com/watch?v=O5hKoBV3vaU
+6. https://www.youtube.com/watch?v=noX75vnFrYc&list=PLN1yQDPWR2SMcMsO7QzMCC_g_sYr4K76Q
+7. https://www.youtube.com/watch?v=OrHO7UeDwZc
+
+
 
 
 
