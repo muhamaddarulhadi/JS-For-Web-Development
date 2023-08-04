@@ -169,6 +169,23 @@
 1. Meteor - https://www.meteor.com
 
 
+# Learn on youtube
+
+1. [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+2. [Vue JS](https://www.youtube.com/watch?v=4deVCNJq3qc&list=PLWKjhJtqVAbkE0Or3HVMRTy-mq_wFUNVv)
+3. [Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ&list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs)
+4. [Node JS](https://www.youtube.com/watch?v=RLtyhwFtXQA&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk)
+5. [React JS](https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
+6. [JQuery](https://www.youtube.com/watch?v=KhtEmR2A1Fw&list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+7. [Javascript 1](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V) 
+8. [Javascript 2](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+9. [Javascript 3](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+10. [Javascript 4](https://www.youtube.com/watch?v=bgU7FeiWKzc&list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704)
+11. [Javascript 4](https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
+12. [Javascript 5](https://www.youtube.com/watch?v=t2CEgPsws3U&list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)
+13. [Javascript 6](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
+
+
 
 
 
