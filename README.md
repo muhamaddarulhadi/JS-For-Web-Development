@@ -100,6 +100,12 @@
 96. https://github.com/rgalus/sticky-js
 97. https://codebyzach.github.io/pace/  -- loading bar
 
+### Wizard Form
+
+1. https://formio.github.io/formio.js/app/examples/
+2. https://www.jqueryscript.net/blog/best-form-wizard.html
+3. https://www.cssscript.com/tag/wizard/
+
 ### Chart
 1. D3js - https://d3js.org
 2. Chart.js - https://www.chartjs.org
