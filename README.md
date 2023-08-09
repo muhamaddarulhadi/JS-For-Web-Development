@@ -179,7 +179,7 @@
 
 1. [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 2. [Vue JS](https://www.youtube.com/watch?v=4deVCNJq3qc&list=PLWKjhJtqVAbkE0Or3HVMRTy-mq_wFUNVv)
-3. [Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ&list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs)
+3. [Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ&list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs)  /  [Angular](https://www.youtube.com/watch?v=3qBXWUpoPHo)
 4. [Node JS](https://www.youtube.com/watch?v=RLtyhwFtXQA&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk)
 5. [React JS](https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
 6. [JQuery](https://www.youtube.com/watch?v=KhtEmR2A1Fw&list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
