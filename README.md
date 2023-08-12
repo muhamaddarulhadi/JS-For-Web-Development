@@ -184,7 +184,7 @@
 5. [Next JS](https://www.youtube.com/watch?v=VE8BkImUciY)  /  [Next JS](https://www.youtube.com/watch?v=wm5gMKuwSYk)
 6. [React JS](https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
 7. [JQuery](https://www.youtube.com/watch?v=KhtEmR2A1Fw&list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
-8. [Typescript](https://www.youtube.com/watch?v=30LWjhZzg50)
+8. [Typescript](https://www.youtube.com/watch?v=30LWjhZzg50)  /  [Typescript](https://www.youtube.com/watch?v=WlxcujsvcIY)
 9. [Javascript 1](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V) 
 10. [Javascript 2](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 11. [Javascript 3](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
