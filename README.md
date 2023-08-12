@@ -163,7 +163,7 @@
 1. Node.js - https://nodejs.org/en
 2. Expressjs - https://expressjs.com : Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 3. Koa - https://koajs.com : Web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs
-4. Next.js - https://nextjs.org : End-to-end higher-level Web Framework on top of React and Node.js. Next.js offers both Server-Rendered and Static Web sites for Web, Desktop, and Mobile devices. Mainly used for React
+4. Next.js - https://nextjs.org : End-to-end higher-level Web Framework on top of React and Node.js. Next.js offers both Server-Rendered and Static Web sites for Web, Desktop, and Mobile devices. It is React framework for server render application.
 5. Nuxt - https://nuxt.com : JavaScript library that based on Vue.js, Node.js, Vite and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js
 6. Fastify - https://fastify.dev
 7. LoopBack - https://loopback.io : A highly extensible Node.js and TypeScript framework
@@ -181,16 +181,17 @@
 2. [Vue JS](https://www.youtube.com/watch?v=4deVCNJq3qc&list=PLWKjhJtqVAbkE0Or3HVMRTy-mq_wFUNVv)
 3. [Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ&list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs)  /  [Angular](https://www.youtube.com/watch?v=3qBXWUpoPHo)  /  [Angular](https://www.youtube.com/watch?v=CGLdH5ORX-Y)
 4. [Node JS](https://www.youtube.com/watch?v=RLtyhwFtXQA&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk)
-5. [React JS](https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
-6. [JQuery](https://www.youtube.com/watch?v=KhtEmR2A1Fw&list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
-7. [Typescript](https://www.youtube.com/watch?v=30LWjhZzg50)
-8. [Javascript 1](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V) 
-9. [Javascript 2](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
-10. [Javascript 3](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
-11. [Javascript 4](https://www.youtube.com/watch?v=bgU7FeiWKzc&list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704)
-12. [Javascript 4](https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
-13. [Javascript 5](https://www.youtube.com/watch?v=t2CEgPsws3U&list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)
-14. [Javascript 6](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
+5. [Next JS](https://www.youtube.com/watch?v=VE8BkImUciY)
+6. [React JS](https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
+7. [JQuery](https://www.youtube.com/watch?v=KhtEmR2A1Fw&list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+8. [Typescript](https://www.youtube.com/watch?v=30LWjhZzg50)
+9. [Javascript 1](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V) 
+10. [Javascript 2](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+11. [Javascript 3](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+12. [Javascript 4](https://www.youtube.com/watch?v=bgU7FeiWKzc&list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704)
+13. [Javascript 4](https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
+14. [Javascript 5](https://www.youtube.com/watch?v=t2CEgPsws3U&list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)
+15. [Javascript 6](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
 
 
 # React with .Netcore Web Api
