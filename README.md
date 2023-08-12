@@ -155,7 +155,7 @@
 
 1. Vue.js - https://vuejs.org
 2. Angular - https://angular.io
-3. React - https://react.dev
+3. React - https://react.dev : You need to make a custom router if you want a server render application
 4. Ember - https://emberjs.com
 
 ### Server Environment
@@ -163,7 +163,7 @@
 1. Node.js - https://nodejs.org/en
 2. Expressjs - https://expressjs.com : Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 3. Koa - https://koajs.com : Web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs
-4. Next.js - https://nextjs.org : End-to-end higher-level Web Framework on top of React and Node.js. Next.js offers both Server-Rendered and Static Web sites for Web, Desktop, and Mobile devices. It is React framework for server render application.
+4. Next.js - https://nextjs.org : End-to-end higher-level Web Framework on top of React and Node.js. Next.js offers both Server-Rendered and Static Web sites for Web, Desktop, and Mobile devices. It is React framework for server render application. You also can set it to use client side rendering.
 5. Nuxt - https://nuxt.com : JavaScript library that based on Vue.js, Node.js, Vite and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js
 6. Fastify - https://fastify.dev
 7. LoopBack - https://loopback.io : A highly extensible Node.js and TypeScript framework
