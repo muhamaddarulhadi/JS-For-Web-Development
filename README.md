@@ -209,6 +209,13 @@
 1. https://dev.to/sumitkharche/how-to-deploy-react-application-on-iis-server-1ied
 2. https://www.letsreact.org/deploy-react-application-on-iis-server/
 3. https://www.youtube.com/watch?v=dHEzao6pvbk
+4. https://www.advancedinstaller.com/user-guide/qa-react-app-iis-deployment.html
+5. https://www.youtube.com/watch?v=uRDkRjpg48I
+6. https://mateo-mojica.medium.com/how-to-deploy-a-react-application-on-an-iis-server-31409768ec92
+7. https://morioh.com/a/c1c5a4b59cb5/how-to-create-and-deploy-react-application-on-iis-server
+8. https://dotnetblog.asphostportal.com/how-to-host-react-js-application-in-iis/
+9. https://stackoverflow.com/questions/63365558/how-can-i-host-react-app-in-iis-web-server
+10. https://learn.microsoft.com/en-us/answers/questions/1209090/deploy-react-and-net-7-0-api-to-iis
 
 
 
