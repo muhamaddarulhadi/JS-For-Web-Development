@@ -155,7 +155,7 @@
 
 1. Vue.js - https://vuejs.org
 2. Angular - https://angular.io
-3. React - https://react.dev : You need to make a custom router if you want a server render application
+3. React - https://react.dev : You need to make a custom router if you want a server render application. Plain React, no framework
 4. Ember - https://emberjs.com
 
 ### Server Environment
@@ -181,7 +181,7 @@
 2. [Vue JS](https://www.youtube.com/watch?v=4deVCNJq3qc&list=PLWKjhJtqVAbkE0Or3HVMRTy-mq_wFUNVv)
 3. [Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ&list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs)  /  [Angular](https://www.youtube.com/watch?v=3qBXWUpoPHo)  /  [Angular](https://www.youtube.com/watch?v=CGLdH5ORX-Y)
 4. [Node JS](https://www.youtube.com/watch?v=RLtyhwFtXQA&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk)
-5. [Next JS](https://www.youtube.com/watch?v=VE8BkImUciY)
+5. [Next JS](https://www.youtube.com/watch?v=VE8BkImUciY)  /  [Next JS](https://www.youtube.com/watch?v=wm5gMKuwSYk)
 6. [React JS](https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
 7. [JQuery](https://www.youtube.com/watch?v=KhtEmR2A1Fw&list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
 8. [Typescript](https://www.youtube.com/watch?v=30LWjhZzg50)
