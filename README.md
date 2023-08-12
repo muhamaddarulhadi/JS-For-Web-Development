@@ -204,6 +204,12 @@
 6. https://www.youtube.com/watch?v=noX75vnFrYc&list=PLN1yQDPWR2SMcMsO7QzMCC_g_sYr4K76Q
 7. https://www.youtube.com/watch?v=OrHO7UeDwZc
 
+# Deploy React on IIS
+
+1. https://dev.to/sumitkharche/how-to-deploy-react-application-on-iis-server-1ied
+2. https://www.letsreact.org/deploy-react-application-on-iis-server/
+3. https://www.youtube.com/watch?v=dHEzao6pvbk
+
 
 
 
