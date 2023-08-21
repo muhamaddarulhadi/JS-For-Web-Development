@@ -217,6 +217,18 @@
 9. https://stackoverflow.com/questions/63365558/how-can-i-host-react-app-in-iis-web-server
 10. https://learn.microsoft.com/en-us/answers/questions/1209090/deploy-react-and-net-7-0-api-to-iis
 
+# For React
+
+1. https://github.com/ed-roh/react-admin-dashboard
+2. https://create-react-app.dev
+3. https://mui.com/material-ui/getting-started/installation/
+4. https://nivo.rocks
+5. https://fullcalendar.io
+6. https://formik.org/docs/overview
+7. https://github.com/jquense/yup
+8. https://github.com/azouaoui-med/react-pro-sidebar
+9. https://fonts.google.com
+
 
 
 
