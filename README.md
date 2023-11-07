@@ -99,6 +99,7 @@
 95. https://mimo84.github.io/bootstrap-maxlength/
 96. https://github.com/rgalus/sticky-js
 97. https://codebyzach.github.io/pace/  -- loading bar
+98. https://owlcarousel2.github.io/OwlCarousel2/
 
 ### Wizard Form
 
