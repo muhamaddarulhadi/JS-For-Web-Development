@@ -125,6 +125,12 @@
 10. Apexcharts.js - https://apexcharts.com
 11. Morris - https://morrisjs.github.io/morris.js/
 
+### JS TOOLS
+
+Note : [Note 1](https://dev.to/devland/how-to-secure-your-javascript-applications-1pfg) / [Note 2](https://www.linkedin.com/advice/3/what-some-best-practices-securing-your-javascript)
+1. https://beautifier.io/
+2. https://obfuscator.io/#code
+
 
 ### Library
 
