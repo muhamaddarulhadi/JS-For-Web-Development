@@ -106,6 +106,35 @@
 102. https://github.com/mickidum/acc_toolbar
 103. https://gulpjs.com/
 
+### Upload File
+
+1. https://pqina.nl/filepond/
+2. https://www.dropzone.dev/
+3. https://simpleupload.michaelcbrook.com/
+4. https://mailru.github.io/FileAPI
+5. https://sroze.github.io/backbone-upload-manager/
+6. https://pekebyte.github.io/pekeUpload/
+7. https://formstone.it/start/
+8. https://innostudio.de/fileuploader/
+9. https://github.com/tus/tus-js-client
+10. https://github.com/devbridge/html5-file-uploader
+11. https://github.com/johndatserakis/file-upload-with-preview
+12. https://github.com/LPology/Simple-Ajax-Uploader
+13. https://fineuploader.com/index.html
+14. https://uppload.js.org/
+15. https://www.plupload.com/
+16. https://github.com/RonnieSan/uploadify
+17. https://filedropjs.org/
+18. https://uppy.io/
+19. https://blueimp.github.io/jQuery-File-Upload/
+20. https://demos.shieldui.com/
+21. https://github.com/danielm/uploader
+22. https://github.com/kartik-v/bootstrap-fileinput
+23. https://www.jqueryscript.net/form/multi-image-uploader-bootstrap.html
+24. https://www.jqueryscript.net/form/ajax-file-uploader.html
+25. https://fineuploader.com/
+
+
 ### Wizard Form
 
 1. https://formio.github.io/formio.js/app/examples/
