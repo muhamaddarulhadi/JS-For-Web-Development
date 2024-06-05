@@ -270,6 +270,13 @@ Note : [Note 1](https://dev.to/devland/how-to-secure-your-javascript-application
 8. https://github.com/azouaoui-med/react-pro-sidebar
 9. https://fonts.google.com
 
+#### Error Page
+
+1. https://codepen.io/ZonFire99/pen/EaYmGV
+2. https://codepen.io/nhatanh17/pen/VwwVmLK
+3. https://codepen.io/robinselmer/pen/vJjbOZ
+4. https://codepen.io/arman_bag/pen/GbMGVG
+
 
 
 
