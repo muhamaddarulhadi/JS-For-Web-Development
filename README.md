@@ -153,6 +153,7 @@
 9. Highcharts - https://www.highcharts.com
 10. Apexcharts.js - https://apexcharts.com
 11. Morris - https://morrisjs.github.io/morris.js/
+12. Apache ECharts - https://echarts.apache.org/en/index.html
 
 ### JS TOOLS
 
