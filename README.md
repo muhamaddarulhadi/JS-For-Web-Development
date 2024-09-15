@@ -136,6 +136,14 @@
 25. https://fineuploader.com/
 
 
+### Text Editor in HTML
+
+1. https://github.com/JefMari/awesome-wysiwyg-editors  (MANY EDITOR HERE)
+2. https://summernote.org/
+3. https://editorjs.io/
+4. https://quilljs.com/
+
+
 ### Wizard Form
 
 1. https://formio.github.io/formio.js/app/examples/
